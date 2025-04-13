@@ -1,2 +1,3 @@
 # shooter
-local
+Мой проект на пайтоне. 
+-#hfhfhfhf
